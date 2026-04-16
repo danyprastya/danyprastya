@@ -18,10 +18,10 @@ I'm a results-driven Web Developer specializing in **JavaScript** and **SQL**, c
 
 I build reliable, high-performance web applications — from automated dashboards that cut reporting time by **70%**, to mobile-first apps with real-time PDF generation. I care deeply about clean architecture, measurable impact, and building things that actually move the needle.
 
-- 🏢 Previously Web Developer at **PT. Graha Sarana Duta (Telkom Property)**
-- 🎓 Final-year Informatics student, expected graduation **Apr 2027**
-- 💡 Creator of **Alifbaba** — an interactive audio-visual learning app undergoing IP registration
-- 🚀 Open to freelance projects & collaboration
+- Previously Web Developer at **PT. Graha Sarana Duta (Telkom Property)**
+- Final-year Informatics student, expected graduation **Apr 2027**
+- Creator of **Alifbaba** — an interactive audio-visual learning app undergoing IP registration
+- Open to freelance projects & collaboration
 
 ---
 
@@ -72,6 +72,6 @@ I build reliable, high-performance web applications — from automated dashboard
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of something great.
 
-📧 **danyprastyaalhakim@gmail.com** · 🌐 **[danyportofolio.vercel.app](https://danyportofolio.vercel.app)** . **LinkedIn: [linkedin.com/in/danyprastya](https://linkedin.com/in/danyprastya)**
+**Email: danyprastyaalhakim@gmail.com** · **Portfolio: [danyportofolio.vercel.app](https://danyportofolio.vercel.app)** . **LinkedIn: [linkedin.com/in/danyprastya](https://linkedin.com/in/danyprastya)**
 
 ---
