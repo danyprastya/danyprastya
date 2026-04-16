@@ -46,15 +46,11 @@ I build reliable, high-performance web applications — from automated dashboard
 
 ---
 
-## 📌 Highlights
+### 🚀 Professional Highlights
 
-| 🏆 Achievement | 📈 Impact |
-|---|---|
-| Automated email reminder dashboard | Boosted marketing team efficiency by **80%** |
-| Real-time PDF generation mobile web app | Reduced report turnaround time by **70%** |
-| Property data dashboard for operations team | Accelerated workflows by **40%** |
-| SEO-optimized company profile website (freelance) | Increased search visibility by **80%** |
-| Front-end architecture for consulting firm (freelance) | Improved site performance by **55%** |
+**Web Developer at PT Graha Sarana Duta (Telkom Property):** Engineered automated dashboards and mobile-focused web apps that cut reporting time by **70%** and increased team efficiency by **80%**.
+**Freelance Web Developer:** Built SEO-optimized company profiles (increasing visibility by **80%**) and improved site performance by **55%** through modern front-end architecture.
+**Academic Project:** Developed **"Alifbaba"**, an interactive audio-visual learning app currently in the process of Intellectual Property (IP) registratio.
 
 ---
 
@@ -76,7 +72,7 @@ I build reliable, high-performance web applications — from automated dashboard
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of something great.
 
-📧 **danyprastyaalhakim@gmail.com** · 🌐 **[danyportofolio.vercel.app](https://danyportofolio.vercel.app)**
+📧 **danyprastyaalhakim@gmail.com** · 🌐 **[danyportofolio.vercel.app](https://danyportofolio.vercel.app)** . **LinkedIn: [linkedin.com/in/danyprastya](https://linkedin.com/in/danyprastya)**
 
 ---
 
