@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dany Prastya 👋</h1>
+<h1 align="center">Hi, I'm Dany Prastya</h1>
 
 <p align="center">
   <b>Web Developer · JavaScript & SQL Specialist · Bandung, Indonesia</b>
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## **About Me**
 
 I'm a results-driven Web Developer specializing in **JavaScript** and **SQL**, currently pursuing my degree in Informatics Engineering at **Institut Teknologi Nasional Bandung** (GPA: 3.52/4.00).
 
@@ -25,7 +25,7 @@ I build reliable, high-performance web applications — from automated dashboard
 
 ---
 
-## 🛠️ Tech Stack
+## **Tech Stack**
 
 **Frontend**
 
@@ -46,7 +46,7 @@ I build reliable, high-performance web applications — from automated dashboard
 
 ---
 
-### 🚀 Professional Highlights
+### **Professional Highlights**
 
 **Web Developer at PT Graha Sarana Duta (Telkom Property):** Engineered automated dashboards and mobile-focused web apps that cut reporting time by **70%** and increased team efficiency by **80%**.
 **Freelance Web Developer:** Built SEO-optimized company profiles (increasing visibility by **80%**) and improved site performance by **55%** through modern front-end architecture.
@@ -54,28 +54,24 @@ I build reliable, high-performance web applications — from automated dashboard
 
 ---
 
-## 🎓 Education
+## **Education**
 
 **Institut Teknologi Nasional Bandung**
 `Sep 2022 – Apr 2027 (Expected)` · Sarjana Teknik Informatika · GPA: **3.52 / 4.00**
 
 ---
 
-## 📊 GitHub Stats
+## **GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=danyprastya&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danyprastya&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## **Let's Connect**
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of something great.
 
 📧 **danyprastyaalhakim@gmail.com** · 🌐 **[danyportofolio.vercel.app](https://danyportofolio.vercel.app)** . **LinkedIn: [linkedin.com/in/danyprastya](https://linkedin.com/in/danyprastya)**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danyprastya&style=flat-square&color=blue" alt="Profile Views" />
-</p>
