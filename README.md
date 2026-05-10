@@ -2,7 +2,7 @@
 
 ### Dany Prastya
 
-***Full-stack web dev. I write the frontend, wire the AI, read the data.***
+**Full-stack web dev. I write the frontend, wire the AI, read the data.**
 
 ```
 ╔═════════════════════════════════════════════════════╗
@@ -21,17 +21,6 @@
 [![Email](https://img.shields.io/badge/Gmail-danyprastyaalhakim@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danyprastyaalhakim@gmail.com)
 
 </div>
-
----
-
-## About
-
-Freelancer. I build web apps that go further than the UI.
----
-
-## Projects
-
-> [danyportofolio.vercel.app](https://danyportofolio.vercel.app)
 
 ---
 
@@ -122,12 +111,3 @@ Freelancer. I build web apps that go further than the UI.
 </div>
 
 ---
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-danyportofolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://danyportofolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danyprastya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyprastya)
-[![Instagram](https://img.shields.io/badge/Instagram-dnyhkm__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dnyhkm_)
-[![Email](https://img.shields.io/badge/Gmail-danyprastyaalhakim@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danyprastyaalhakim@gmail.com)
-
-</div>
