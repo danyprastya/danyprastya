@@ -1,5 +1,9 @@
 <div align="center">
 
+### Dany Prastya
+
+***Full-stack web dev. I write the frontend, wire the AI, read the data.***
+
 ```
 ╔═════════════════════════════════════════════════════╗
 ║  dany @ github                                      ║
@@ -10,10 +14,6 @@
 ║  hire   ›  danyprastyaalhakim@gmail.com             ║
 ╚═════════════════════════════════════════════════════╝
 ```
-
-### Dany Prastya
-
-**Full-stack web dev. I write the frontend, wire the AI, read the data.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-danyportofolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://danyportofolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danyprastya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyprastya)
@@ -26,10 +26,11 @@
 
 ## About
 
-Freelancer. I build web apps that go further than the UI: LLM integrations, RAG pipelines on GCP, BI dashboards with ETL underneath.
+Freelancer. I build web apps that go further than the UI.
 ---
 
 ## Projects
+
 > [danyportofolio.vercel.app](https://danyportofolio.vercel.app)
 
 ---
